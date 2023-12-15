@@ -25,7 +25,7 @@ if will_rain:
         .create(
         body="Rain today, bring an umbrella",
         from_='+12028662785',
-        to='+400732008413'
+        to='+---------'
     )
     print(message.sid)
 
